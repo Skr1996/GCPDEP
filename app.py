@@ -7,7 +7,7 @@ def main():
 
     # Replace 'your-project-id' and 'your-bucket-name' with your actual Google Cloud project ID and GCS bucket name
     project_id = 'manipalpr-1677473940279'
-    bucket_name = 'bkt-dec26-skr-v2'
+    bucket_name = 'gcp-movies-v1'
 
     # Create an instance of GCP_Helper
     gcp_helper = GCP_Helper(project_id, bucket_name)
